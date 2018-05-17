@@ -1,2 +1,2 @@
-# gimagesearch
-google image search
+# giphysearch
+Create a search and display using the giphy api

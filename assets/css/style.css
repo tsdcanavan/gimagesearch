@@ -1,0 +1,36 @@
+.portfolio-item {
+    margin-bottom: 5px;
+
+}
+
+
+.gif {
+	border-width: 3px;
+	border-color: crimson;
+}
+
+#version {
+	text-align: right;
+	font-size: .75em;
+}
+
+#image-out {
+	position: relative;
+	display: inline-block;
+	float: left;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 400px;
+    height: 400px;
+/*    background-color: lightgrey; */
+}
+
+.flex-item {
+/*    background-color: cornflowerblue; */
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
